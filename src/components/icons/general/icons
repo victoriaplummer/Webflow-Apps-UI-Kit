@@ -1,0 +1,6637 @@
+/* Account */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* icon */
+
+width: 13px;
+height: 13px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #63D489;
+
+
+/* Add
+
+plus, more
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 15.62%;
+right: 15.62%;
+top: 15.62%;
+bottom: 15.62%;
+
+background: #F5F5F5;
+
+
+/* Apps
+
+puzzle, piece
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* Archive
+
+file, box, storage
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* Attachment
+
+paperclip, attach
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 19.82%;
+right: 16.61%;
+top: 13.42%;
+bottom: 19.82%;
+
+background: #F5F5F5;
+
+
+/* Backups
+
+reverse, arrow, clock, time
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 18.75%;
+right: 12.5%;
+top: 0.92%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* Binding
+
+connection, link, bound
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 31.25%;
+right: 25%;
+top: 18.75%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* BoxAdd
+
+plus, more, square
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 28.12%;
+right: 28.12%;
+top: 28.12%;
+bottom: 28.12%;
+
+background: #BDBDBD;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #BDBDBD;
+opacity: 0.4;
+
+
+/* User */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* Frame 14 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* UserDelete */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 13.42%;
+top: 12.5%;
+bottom: 13.42%;
+
+background: #F5F5F5;
+
+
+/* UserDelete */
+
+display: none;
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 34.38%;
+right: 34.38%;
+top: 15.62%;
+bottom: 53.12%;
+
+/* Dark/Text/Active */
+border: 1px solid #D9D9D9;
+
+
+/* icon */
+
+position: absolute;
+left: 15.62%;
+right: 50%;
+top: 59.38%;
+bottom: 18.75%;
+
+/* Dark/Text/Active */
+border: 1px solid #D9D9D9;
+border-radius: 2px;
+
+
+/* icon */
+
+position: absolute;
+left: 59.38%;
+right: 15.62%;
+top: 59.38%;
+bottom: 15.62%;
+
+border: 1px solid #D9D9D9;
+border-radius: 6px;
+
+
+/* icon */
+
+position: absolute;
+left: 84.38%;
+right: -9.38%;
+top: 59.38%;
+bottom: 15.62%;
+
+border: 1px solid #D9D9D9;
+border-radius: 6px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Frame 14 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* UserInvite */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* Frame 14 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Users */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 6.25%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* Users */
+
+display: none;
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 28.12%;
+right: 46.88%;
+top: 28.12%;
+bottom: 46.88%;
+
+/* Dark/Text/Active */
+border: 1px solid #D9D9D9;
+
+
+/* icon */
+
+position: absolute;
+left: 15.62%;
+right: 34.38%;
+top: 65.62%;
+bottom: 12.5%;
+
+/* Dark/Text/Active */
+border: 1px solid #D9D9D9;
+border-radius: 2px;
+
+
+/* icon */
+
+position: absolute;
+left: 65.62%;
+right: 9.38%;
+top: 53.12%;
+bottom: 25%;
+
+/* Dark/Text/Active */
+border: 1px solid #D9D9D9;
+border-radius: 2px;
+
+
+/* icon */
+
+position: absolute;
+width: 4.27px;
+height: 5px;
+left: 8.73px;
+top: 2px;
+
+/* Dark/Text/Active */
+background: #D9D9D9;
+
+
+/* icon */
+
+position: absolute;
+width: 4px;
+height: 4px;
+left: 8.5px;
+top: 2.5px;
+
+/* Dark/Text/Active */
+border: 1px solid #D9D9D9;
+
+
+/* icon */
+
+position: absolute;
+width: 7px;
+height: 7.5px;
+left: 3.5px;
+top: 2.5px;
+
+background: #D9D9D9;
+
+
+/* Frame 14 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Users */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 6.25%;
+right: 0%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* Users */
+
+display: none;
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 40.62%;
+right: 34.38%;
+top: 46.88%;
+bottom: 28.12%;
+
+/* Dark/Text/Active */
+border: 1px solid #D9D9D9;
+
+
+/* icon */
+
+position: absolute;
+left: 65.62%;
+right: 9.38%;
+top: 15.62%;
+bottom: 59.38%;
+
+/* Dark/Text/Active */
+border: 1px solid #D9D9D9;
+
+
+/* icon */
+
+position: absolute;
+left: 40.62%;
+right: 34.38%;
+top: 15.62%;
+bottom: 59.38%;
+
+/* Dark/Text/Active */
+border: 1px solid #D9D9D9;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* icon */
+
+position: absolute;
+left: 34.38%;
+right: 28.12%;
+top: 71.88%;
+bottom: 12.5%;
+
+/* Dark/Text/Active */
+border: 1px solid #D9D9D9;
+border-radius: 2px;
+
+
+/* icon */
+
+position: absolute;
+left: 78.12%;
+right: 3.12%;
+top: 40.62%;
+bottom: 43.75%;
+
+/* Dark/Text/Active */
+border: 1px solid #D9D9D9;
+border-radius: 2px;
+
+
+/* icon */
+
+position: absolute;
+left: 28.12%;
+right: 53.12%;
+top: 40.62%;
+bottom: 43.75%;
+
+/* Dark/Text/Active */
+border: 1px solid #D9D9D9;
+border-radius: 2px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Frame 14 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Key */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 11px;
+height: 11px;
+left: 3px;
+top: 2px;
+
+background: #F5F5F5;
+
+
+/* Key */
+
+display: none;
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 11px;
+height: 11px;
+left: 3px;
+top: 2px;
+
+/* Dark/Text/Active
+
+gray100
+*/
+background: #E0E0E0;
+
+
+/* icon */
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: 3.5px;
+top: 2.5px;
+
+border: 1px solid #D9D9D9;
+border-radius: 0.5px;
+
+
+/* icon */
+
+position: absolute;
+width: 7px;
+height: 7px;
+left: 6.5px;
+top: 2.5px;
+
+background: #D9D9D9;
+
+
+/* icon */
+
+position: absolute;
+width: 6.5px;
+height: 7px;
+left: 3.5px;
+top: 5.5px;
+
+background: #D9D9D9;
+
+
+/* icon */
+
+position: absolute;
+left: 59.38%;
+right: 28.12%;
+top: 28.12%;
+bottom: 59.38%;
+
+background: #D9D9D9;
+
+
+/* Key */
+
+display: none;
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: 3.5px;
+top: 2.5px;
+
+border: 1px solid #D9D9D9;
+transform: matrix(0, 1, 1, 0, 0, 0);
+
+
+/* icon */
+
+position: absolute;
+width: 7px;
+height: 7px;
+left: 3.5px;
+top: 5.5px;
+
+background: #D9D9D9;
+transform: matrix(0, 1, 1, 0, 0, 0);
+
+
+/* icon */
+
+position: absolute;
+width: 6.5px;
+height: 7px;
+left: 6.5px;
+top: 2.5px;
+
+background: #D9D9D9;
+transform: matrix(0, 1, 1, 0, 0, 0);
+
+
+/* icon */
+
+position: absolute;
+left: 34.38%;
+right: 53.12%;
+top: 53.12%;
+bottom: 34.38%;
+
+background: #D9D9D9;
+
+
+/* BranchDefault
+
+point, arrow, update
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 4.96%;
+top: 18.75%;
+bottom: 19.67%;
+
+background: #F5F5F5;
+
+
+/* BranchIndent
+
+drop, arrow
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 6.25%;
+right: 29.96%;
+top: 0%;
+bottom: 32.17%;
+
+background: #F5F5F5;
+
+
+/* BranchMerge
+
+arrow, join
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 19.49%;
+right: 19.67%;
+top: 11.03%;
+bottom: 13.42%;
+
+background: #F5F5F5;
+
+
+/* BranchUpdate */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 6.25%;
+right: 25%;
+top: 0%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* Briefcase
+
+business, job, apply
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* Brush
+
+Designer, Style, paint, art
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.86%;
+top: 12.89%;
+bottom: 18.74%;
+
+background: #F5F5F5;
+
+
+/* Buy
+
+tag, ecommerce, purchase
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 7.54%;
+right: 12.5%;
+top: 12.5%;
+bottom: 7.54%;
+
+background: #F5F5F5;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 9.38%;
+top: 6.25%;
+bottom: 9.38%;
+
+background: #F5F5F5;
+
+
+/* CMSDefault
+
+collection, coins, stack
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 18.75%;
+right: 18.75%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* CMSExport
+
+collection, coins, stack, arrow
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 4.96%;
+top: 6.25%;
+bottom: 7.34%;
+
+background: #F5F5F5;
+
+
+/* CMSInsert
+
+collection, coins, stack, caret, data
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 31.25%;
+right: 6.25%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+opacity: 0.5;
+
+
+/* icon */
+
+position: absolute;
+left: 0%;
+right: 6.25%;
+top: 50%;
+bottom: 31.25%;
+
+background: #F5F5F5;
+
+
+/* CMSManage
+
+collection, coins, stack, cog, settings, data
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 12.35px;
+height: 12px;
+left: 2px;
+top: 2px;
+
+background: #F5F5F5;
+
+
+/* CMSSandwich
+
+collection, coins, stack, caret, data
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 31.25%;
+right: 6.25%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+opacity: 0.5;
+
+
+/* icon */
+
+position: absolute;
+left: 0%;
+right: 6.25%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* CloseCircle
+
+button, x, cancel, dismiss, no
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 35.29%;
+right: 29.04%;
+top: 29.04%;
+bottom: 35.29%;
+
+background: #F5F5F5;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 6.25%;
+top: 6.25%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+opacity: 0.4;
+
+
+/* CheckCircle
+
+confirm, mark, yes
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 6.25%;
+top: 6.25%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+opacity: 0.4;
+
+
+/* icon */
+
+position: absolute;
+left: 29.04%;
+right: 22.79%;
+top: 29.04%;
+bottom: 37.5%;
+
+background: #F5F5F5;
+
+
+/* CheckCircleGreen
+
+confirm, mark, yes
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 6.25%;
+top: 6.25%;
+bottom: 12.5%;
+
+background: #63D489;
+opacity: 0.4;
+
+
+/* icon */
+
+position: absolute;
+left: 29.04%;
+right: 22.79%;
+top: 29.04%;
+bottom: 37.5%;
+
+background: #63D489;
+
+
+/* CheckDefault
+
+confirm, mark, yes
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 16.54%;
+right: 16.54%;
+top: 22.79%;
+bottom: 31.25%;
+
+background: #F5F5F5;
+
+
+/* Checkbox
+
+confirm, yes, mark, square
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+opacity: 0.6;
+
+
+/* icon */
+
+position: absolute;
+left: 32.17%;
+right: 13.42%;
+top: 19.67%;
+bottom: 39.33%;
+
+background: #F5F5F5;
+
+
+/* ClearBoth
+
+mustache, arrows, boxes, branch
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 11.21%;
+right: 4.95%;
+top: 12.5%;
+bottom: 16.54%;
+
+background: #F5F5F5;
+
+
+/* Clockwise
+
+arrow, forward, turn, circle
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* CloseCircleRed
+
+button, x, cancel, dismiss, no
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 35.29%;
+right: 29.04%;
+top: 29.04%;
+bottom: 35.29%;
+
+background: #FF8A8A;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 6.25%;
+top: 6.25%;
+bottom: 12.5%;
+
+background: #FF8A8A;
+opacity: 0.4;
+
+
+/* CloseDefault
+
+x, cancel, dismiss, no
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 22.79%;
+right: 22.79%;
+top: 22.79%;
+bottom: 22.79%;
+
+background: #F5F5F5;
+
+
+/* Code
+
+bracket, build
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 8.08%;
+right: 8.08%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* Collapse
+
+caret, arrows, ducks, kiss
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 32.17%;
+right: 25.92%;
+top: 19.67%;
+bottom: 19.67%;
+
+background: #F5F5F5;
+
+
+/* Collapse
+
+caret, arrows, ducks, kiss
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 32.17%;
+right: 25.92%;
+top: 19.67%;
+bottom: 19.67%;
+
+background: #F5F5F5;
+
+
+/* Comment */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+left: 6.25%;
+right: 0%;
+top: 0%;
+bottom: 6.25%;
+
+background: #F5F5F5;
+
+
+/* Connected
+
+link, zap, lightning
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 25%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* ContentEditor
+
+writer, pencil, person
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 10.29%;
+top: 12.5%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* ContinuousEvent
+
+arrows, lightning, circle, turn, continue
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 9.38%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* CounterClockwise
+
+arrow, backward, turn
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* Dashboard
+
+window, boxes, squares, grid
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 18.75%;
+right: 12.5%;
+top: 12.5%;
+bottom: 18.75%;
+
+border: 1px solid #F5F5F5;
+border-radius: 1px;
+
+
+/* Date
+
+calendar, time
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 9.38%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* Delete
+
+trash, garbage, can
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 18.75%;
+right: 12.5%;
+top: 12.5%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* DeleteKey
+
+arrow, x, tab, left, tag
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 4.42%;
+right: 12.5%;
+top: 18.75%;
+bottom: 25%;
+
+background: #F5F5F5;
+
+
+/* DesktopBreakpoint
+
+monitor, tv, computer, display, device
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 25%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* Download
+
+arrow, save
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 18.58%;
+bottom: 18.92%;
+
+background: #F5F5F5;
+
+
+/* DragLeft
+
+arrow, lines, triangle, caret, move
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 25%;
+right: 31.25%;
+top: 18.75%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* DragRight
+
+arrow, lines, triangle, caret, move
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 31.25%;
+right: 25%;
+top: 18.75%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* Drop
+
+arrow, down, move
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 13.42%;
+right: 18.75%;
+top: 18.75%;
+bottom: 17.46%;
+
+background: #F5F5F5;
+
+
+/* DuplicateFill
+
+copy, squares, overlap, paste
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 18.75%;
+right: 12.5%;
+top: 12.5%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* DuplicateOutline
+
+copy, squares, overlap, paste
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 18.75%;
+right: 12.5%;
+top: 12.5%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* EasingPause
+
+circle, button
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 6.25%;
+top: 6.25%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* EasingPlay
+
+circle, button, arrow
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 6.25%;
+top: 6.25%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* Edit
+
+pencil, change, settings
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 57.17%;
+right: 25.92%;
+top: 25.92%;
+bottom: 57.17%;
+
+background: #F5F5F5;
+opacity: 0.4;
+
+
+/* icon */
+
+position: absolute;
+left: 18.75%;
+right: 11.96%;
+top: 11.96%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* Email
+
+envelope, send, contact
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 18.75%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* EmbedAdd
+
+arrow, triangle, caret, insert, caret
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 15.62%;
+right: 14.33%;
+top: 25%;
+bottom: 25%;
+
+background: #F5F5F5;
+
+
+/* ExpandDefault
+
+enlarge, arrow, caret, diagonal 
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 25%;
+bottom: 25%;
+
+background: #F5F5F5;
+
+
+/* ExpandVertical
+
+enlarge, arrow, caret 
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 32.17%;
+right: 25.92%;
+top: 17.46%;
+bottom: 17.46%;
+
+background: #F5F5F5;
+
+
+/* Filter
+
+funnel, cup
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 10.66%;
+right: 10.66%;
+top: 12.5%;
+bottom: 10.66%;
+
+background: #F5F5F5;
+
+
+/* Flag
+
+note, alert
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 18.75%;
+right: 18.75%;
+top: 6.25%;
+bottom: 6.25%;
+
+background: #F5F5F5;
+
+
+/* Flows
+
+arrow, logic, right
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 11.21%;
+top: 12.5%;
+bottom: 7.17%;
+
+background: #F5F5F5;
+
+
+/* FolderAdd
+
+file
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 6.25%;
+top: 18.75%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* FolderDefault
+
+file
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 18.75%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* FolderOpen
+
+file
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 6.25%;
+right: 7.73%;
+top: 18.75%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* Free
+
+gift, present
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 18.75%;
+right: 18.75%;
+top: 12.62%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* GlobeCheck
+
+globe, secure, check
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 6.37%;
+top: 6.25%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* icon */
+
+position: absolute;
+left: 57.17%;
+right: 0.91%;
+top: 50.92%;
+bottom: 18.75%;
+
+background: #63D489;
+
+
+/* GlobeWarning
+
+globe, warning, insecure
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 12.98px;
+height: 13px;
+left: 2px;
+top: 1px;
+
+background: #F5F5F5;
+
+
+/* icon */
+
+position: absolute;
+width: 2px;
+height: 6.5px;
+left: 11.5px;
+top: 8px;
+
+background: #F3C831;
+
+
+/* icon */
+
+position: absolute;
+width: 0px;
+height: 3px;
+left: 12.5px;
+top: 8px;
+
+border: 1px solid #D9D9D9;
+
+
+/* icon */
+
+position: absolute;
+width: 2px;
+height: 2px;
+left: 11.5px;
+top: 12.5px;
+
+background: #D9D9D9;
+
+
+/* Guide
+
+book, how to, instructions
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 12.5%;
+bottom: 7.54%;
+
+background: #F5F5F5;
+
+
+/* Happy
+
+face, smile, emoji
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* HelpCircle
+
+question, support
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 15.62%;
+right: 9.38%;
+top: 9.38%;
+bottom: 15.62%;
+
+opacity: 0.4;
+border: 1px solid #F5F5F5;
+
+
+/* icon */
+
+position: absolute;
+width: 4.83px;
+height: 7.25px;
+left: 6px;
+top: 4px;
+
+background: #F5F5F5;
+
+
+/* HelpOutline
+
+question, support
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 37.5%;
+right: 32.32%;
+top: 25%;
+bottom: 29.69%;
+
+background: #F5F5F5;
+
+
+/* Hide
+
+eye, exclude
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 10.29%;
+right: 10.29%;
+top: 10.29%;
+bottom: 10.29%;
+
+background: #F5F5F5;
+
+
+/* Home
+
+house
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 7.17%;
+right: 7.17%;
+top: 9.38%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* ID
+
+proof, verify
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 25%;
+right: 18.75%;
+top: 25%;
+bottom: 25%;
+
+background: #F5F5F5;
+
+
+/* Image
+
+photo, picture
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* Info
+
+help, circle
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 6.25%;
+top: 6.25%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+opacity: 0.4;
+
+
+/* icon */
+
+position: absolute;
+left: 43.75%;
+right: 40.62%;
+top: 25%;
+bottom: 31.25%;
+
+background: #F5F5F5;
+
+
+/* InitialActionGroup
+
+arrow, caret, left
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 18.75%;
+top: 18.75%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* InteractionsCircle
+
+circle, lightning, bold
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 31.25%;
+right: 25%;
+top: 18.75%;
+bottom: 25%;
+
+background: #F5F5F5;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 6.25%;
+top: 6.25%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+opacity: 0.4;
+
+
+/* InteractionsDefault
+
+lightning, bolt
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 15.62%;
+bottom: 15.62%;
+
+background: #F5F5F5;
+
+
+/* InteractionsOff
+
+lightning, bolt
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 10.29%;
+right: 10.29%;
+top: 10.29%;
+bottom: 10.29%;
+
+background: #F5F5F5;
+
+
+/* Library */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 9.38%;
+right: 8.38%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* LikeFill
+
+sponsor, love, like
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 18.75%;
+bottom: 17.23%;
+
+background: #F5F5F5;
+
+
+/* LikeOutline
+
+sponsor, love, heart
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 18.75%;
+bottom: 18.53%;
+
+background: #F5F5F5;
+
+
+/* Link
+
+url
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 21.12%;
+right: 21.12%;
+top: 21.12%;
+bottom: 21.12%;
+
+background: #F5F5F5;
+
+
+/* Localization
+
+globe, earth, language
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* Location
+
+globe, earth
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* Lock
+
+security, tool, close
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 12.5%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* Logout
+
+arrow, square, bracket
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 11.21%;
+top: 12.5%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* Map
+
+location, point, drop pin
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 10px;
+height: 12.25px;
+left: 3px;
+top: 2px;
+
+background: #F5F5F5;
+
+
+/* MarginAuto
+
+arrows, box, square 
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 25.74%;
+bottom: 32.34%;
+
+background: #F5F5F5;
+
+
+/* MobileBreakpoint
+
+phone, cell, device
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* More
+
+menu, contextual, more, kebab, navigation, ellipsis, help, dots, overflow
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 18.75%;
+right: 18.75%;
+top: 43.75%;
+bottom: 43.75%;
+
+background: #F5F5F5;
+
+
+/* Motion
+
+move, ekg, heartbeat, line, graph
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 12.5%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* Nest
+
+arrow, right
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 18.75%;
+right: 13.42%;
+top: 80.33%;
+bottom: -44.13%;
+
+background: #F5F5F5;
+transform: rotate(-90deg);
+
+
+/* NoClassFill
+
+square, box, stop
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* NoClassOutline
+
+square, box, stop
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* NoClassStates
+
+hand, point, up, fingers, index
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 18.56%;
+right: 25%;
+top: 18.75%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* OAuthArrow */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 18.75%;
+top: 22.79%;
+bottom: 22.79%;
+
+background: #F5F5F5;
+
+
+/* Padding
+
+square, lines, outline, boundary
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* PageAdd
+
+paper, plus
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 18.75%;
+right: 18.75%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* PageBranched
+
+paper, split
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 6.25%;
+
+background: #F5F5F5;
+
+
+/* PageDefault
+
+paper
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 18.75%;
+right: 18.75%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* PageDuplicate
+
+paper, copy
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 18.75%;
+right: 12.5%;
+top: 6.25%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* Performance
+
+timer, needle, track, analytics, measure
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 14px;
+height: 8px;
+left: 1px;
+top: 3px;
+
+background: #F5F5F5;
+
+
+/* Phone
+
+cell, mobile, contact, support, number
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 17.68%;
+right: 18.75%;
+top: 18.75%;
+bottom: 17.68%;
+
+background: #F5F5F5;
+
+
+/* Pin
+
+thumbtack, needle, nail
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 18.75%;
+right: 12.5%;
+top: 12.5%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* Plans
+
+star
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* Preview
+
+eye, show
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 18.75%;
+right: 12.5%;
+top: 6.25%;
+bottom: 6.25%;
+
+background: #F5F5F5;
+
+
+/* ProductOptions
+
+commerce, buy, tag, purchase, sell, price
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 7.54%;
+right: 6.25%;
+top: 12.5%;
+bottom: 19.67%;
+
+background: #F5F5F5;
+
+
+/* Publish
+
+rocket, ghost, launch, nose
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.78%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* Redo
+
+arrow, right
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 11.21%;
+top: 10.29%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* refresh
+
+arrows, circle, recycle
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 99.08%;
+right: -97.25%;
+top: 15.62%;
+bottom: 15.62%;
+
+background: #F5F5F5;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* RichMedia
+
+note, location, music
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 11.5px;
+height: 11px;
+left: 2.5px;
+top: 2px;
+
+background: #F5F5F5;
+
+
+/* SearchDefault
+
+magnifying glass, look, quick, find
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 18.75%;
+right: 13.42%;
+top: 18.75%;
+bottom: 13.42%;
+
+background: #F5F5F5;
+
+
+/* SearchExclude
+
+magnifying glass, look, quick, find, hide
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 16.54%;
+right: 13.42%;
+top: 16.54%;
+bottom: 13.42%;
+
+background: #F5F5F5;
+
+
+/* Settings
+
+cog
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 11.39px;
+height: 12px;
+left: 2.3px;
+top: 2px;
+
+background: #F5F5F5;
+
+
+/* Share
+
+arrow, send, box, right
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 25%;
+right: 11.21%;
+top: 16.54%;
+bottom: 18.92%;
+
+background: #F5F5F5;
+
+
+/* Show
+
+eye, preview
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.77%;
+right: 12.78%;
+top: 25%;
+bottom: 25%;
+
+background: #F5F5F5;
+
+
+/* Showcase
+
+store, sell, display
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* Slug
+
+star, asterisk, symbol, note, url
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 10px;
+height: 9.16px;
+left: 3px;
+top: 3.42px;
+
+background: #F5F5F5;
+
+
+/* SortAZDown
+
+alphabetical, sort, order
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 10.3%;
+right: 9.4%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* SortAZUp
+
+alphabetical, sort, order
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 10.3%;
+right: 9.4%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* Subscriptions
+
+arrow, money, dollar, sign
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 6.25%;
+top: 6.25%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* Subtract
+
+minus, remove
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 18.75%;
+right: 18.75%;
+top: 46.88%;
+bottom: 46.88%;
+
+background: #F5F5F5;
+
+
+/* Swap
+
+arrows, horizontal, exchange
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 13.42%;
+bottom: 19.67%;
+
+background: #F5F5F5;
+
+
+/* SymbolEditMain
+
+3D, cube, pencil, change
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 6.25%;
+right: 10.29%;
+top: 9.81%;
+bottom: 17.76%;
+
+background: #F5F5F5;
+
+
+/* TabNew
+
+arrow, right, diagonal, box
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 29.04%;
+right: 25%;
+top: 25%;
+bottom: 29.04%;
+
+background: #F5F5F5;
+
+
+/* TabletBreakpoint
+
+square, box, mobile, computer
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 18.75%;
+right: 18.75%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* Team
+
+building, agency, place
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* Templates */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 2px;
+top: 2px;
+
+background: #F5F5F5;
+
+
+/* TextDirection
+
+arrows, left, right
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 11.21%;
+right: 11.2%;
+top: 8.2%;
+bottom: 0.9%;
+
+background: #F5F5F5;
+
+
+/* Time
+
+clock, circle, minutes, hours
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 6.25%;
+top: 6.25%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* TransferAccount
+
+arrow, person, people, share, send
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 10.3%;
+
+background: #F5F5F5;
+
+
+/* Transition
+
+clock, circle, minutes, hours, change
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 18.75%;
+right: 12.5%;
+top: 6.25%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* Undo
+
+arrow, left, go back
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 11.21%;
+right: 12.5%;
+top: 10.29%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* Unlimited
+
+infinity, 8
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #F5F5F5;
+
+
+/* Unlink
+
+disconnect, break, stop
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 13.42%;
+bottom: 13.42%;
+
+background: #F5F5F5;
+
+
+/* Unlock
+
+security, tool, open
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* UnmergeCell */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 35.29%;
+right: 35.29%;
+top: 35.29%;
+bottom: 35.29%;
+
+background: #F5F5F5;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+opacity: 0.4;
+
+
+/* Unpublish
+
+rocket, ghost, launch, nose
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 13.71px;
+height: 13.71px;
+left: 0.65px;
+top: 1.65px;
+
+background: #F5F5F5;
+
+
+/* Updates
+
+announce, megaphone, new
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 18.75%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* Upgrade
+
+arrow, circle
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 6.25%;
+right: 12.5%;
+top: 12.5%;
+bottom: 6.25%;
+
+background: #F5F5F5;
+
+
+/* Uplevel
+
+arrow
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 19.67%;
+right: 12.5%;
+top: 81.25%;
+bottom: -45.04%;
+
+background: #F5F5F5;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Upload
+
+cloud, arrow, share 
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 13px;
+height: 11px;
+left: 1.5px;
+top: 2px;
+
+background: #F5F5F5;
+
+
+/* VideoTutorials
+
+camera, educate, teach
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 11.5px;
+height: 9px;
+left: 3px;
+top: 3.5px;
+
+border: 1px solid #F5F5F5;
+
+
+/* ViewEdges
+
+box, square, arrow, show
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 6.25%;
+
+background: #F5F5F5;
+
+
+/* WarningCircle
+
+circle, exclamation point, !, danger, error
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 6.25%;
+top: 6.25%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+opacity: 0.4;
+
+
+/* icon */
+
+position: absolute;
+left: 46.88%;
+right: 40.62%;
+top: 25%;
+bottom: 31.25%;
+
+background: #D9D9D9;
+
+
+/* WarningTriangle
+
+triangle, exclamation point, !, danger, error
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 46.88%;
+right: 40.62%;
+top: 31.25%;
+bottom: 25%;
+
+background: #F5F5F5;
+
+
+/* icon */
+
+position: absolute;
+left: 8.98%;
+right: 2.73%;
+top: 9.38%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+opacity: 0.4;
+
+
+/* _Products
+
+tag, commerce, purchase
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 13.79%;
+right: 6.25%;
+top: 12.5%;
+bottom: 7.54%;
+
+background: #F5F5F5;
+
+
+/* Customize
+
+wrench, tool, fix
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 11px;
+height: 11px;
+left: 2px;
+top: 3px;
+
+background: #F5F5F5;
+
+
+/* SettingsAlt */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 248 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 0px;
+
+
+
+/* SettingsAlt */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* SettingsAlt */
+
+display: none;
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 28.12%;
+right: 25%;
+top: 59.38%;
+bottom: 40.62%;
+
+/* Dark/Text/Default */
+border: 1px solid #A6A6A6;
+border-radius: 0.5px;
+transform: rotate(-90deg);
+
+
+/* icon */
+
+position: absolute;
+left: 71.88%;
+right: -15.62%;
+top: 43.75%;
+bottom: 56.25%;
+
+/* Dark/Text/Default */
+border: 1px solid #A6A6A6;
+border-radius: 0.5px;
+transform: matrix(0, 1, 1, 0, 0, 0);
+
+
+/* icon */
+
+position: absolute;
+left: 28.12%;
+right: 53.12%;
+top: 87.5%;
+bottom: 12.5%;
+
+/* Dark/Text/Default */
+border: 1px solid #A6A6A6;
+border-radius: 0.5px;
+transform: rotate(-90deg);
+
+
+/* icon */
+
+position: absolute;
+left: 71.88%;
+right: 6.25%;
+top: 12.5%;
+bottom: 87.5%;
+
+/* Dark/Text/Default */
+border: 1px solid #A6A6A6;
+border-radius: 0.5px;
+transform: matrix(0, 1, 1, 0, 0, 0);
+
+
+/* icon */
+
+position: absolute;
+left: 9.38%;
+right: 90.62%;
+top: 59.38%;
+bottom: 3.12%;
+
+/* Dark/Text/Default */
+border: 1px solid #A6A6A6;
+border-radius: 0.5px;
+transform: rotate(-90deg);
+
+
+/* icon */
+
+position: absolute;
+left: 53.12%;
+right: 46.88%;
+top: 34.38%;
+bottom: 28.12%;
+
+/* Dark/Text/Default */
+border: 1px solid #A6A6A6;
+border-radius: 0.5px;
+transform: matrix(0, 1, 1, 0, 0, 0);
+
+
+/* Component */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 12px;
+height: 12.86px;
+left: 2px;
+top: 1.57px;
+
+background: #F5F5F5;
+
+
+/* LogicPreview */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* LogicPreview */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 9.54px;
+height: 11.22px;
+left: 4px;
+top: 2.42px;
+
+background: #F5F5F5;
+
+
+/* PageSection
+
+<p>paper, plus, in page linking, page section</p>
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 18.75%;
+right: 18.75%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* SitesStack */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 12px;
+height: 11px;
+left: 2px;
+top: 2px;
+
+background: #F5F5F5;
+
+
+/* MobileLandscapeBreakpoint */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 25%;
+bottom: 25%;
+
+background: #F5F5F5;
+
+
+/* Cleanup
+
+phone, cell, device
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 13.72px;
+height: 11.01px;
+left: 1.14px;
+top: 2.15px;
+
+background: #F5F5F5;
+
+
+/* Bookshelf
+
+<p>book, library</p>
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 9.97px;
+height: 11.18px;
+left: 4px;
+top: 2px;
+
+background: #F5F5F5;
+
+
+/* CssPreview
+
+book, how to, instructions
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 14px;
+height: 12px;
+left: 1px;
+top: 2px;
+
+background: #F5F5F5;
+
+
+/* List */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 12px;
+height: 8px;
+left: 2px;
+top: 4px;
+
+background: #F5F5F5;
+
+
+/* CsvExport */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 10.29%;
+right: 18.75%;
+top: 12.5%;
+bottom: 8.08%;
+
+background: #F5F5F5;
+
+
+/* CsvImport */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 16.54%;
+right: 18.75%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* VideoTutorialsListItem */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 25%;
+right: 18.66%;
+top: 18.13%;
+bottom: 17.78%;
+
+background: #F5F5F5;
+
+
+/* Figma */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 9px;
+height: 13px;
+left: 4px;
+top: 2px;
+
+background: #D9D9D9;
+
+
+/* ComponentProperties */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 9.81%;
+bottom: 9.37%;
+
+background: #F5F5F5;
+
+
+/* DeviceDesktop */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* DeviceDesktop */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* icon */
+
+position: absolute;
+left: 20.83%;
+right: 16.67%;
+top: 16.67%;
+bottom: 20.83%;
+
+background: #F5F5F5;
+
+
+/* DeviceLaptop */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* DeviceLaptop */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* icon */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 25%;
+bottom: 24.89%;
+
+background: #F5F5F5;
+
+
+/* DeviceLaptopStar
+
+laptop, breakpoint
+*/
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 16.67%;
+bottom: 24.89%;
+
+background: #F5F5F5;
+
+
+/* DeviceTabletPortrait
+
+tablet, ipad, breakpoint
+*/
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 20.83%;
+bottom: 20.83%;
+
+background: #F5F5F5;
+
+
+/* DeviceMobileLandscape */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* DeviceMobileLandscape */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* icon */
+
+position: absolute;
+width: 14px;
+height: 9px;
+left: 5px;
+top: 7px;
+
+background: #F5F5F5;
+
+
+/* DeviceMobilePortrait */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* DeviceMobilePortrait */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* icon */
+
+position: absolute;
+width: 9px;
+height: 14px;
+left: 8px;
+top: 5px;
+
+background: #F5F5F5;
+
+
+/* DeviceDesktopLarge */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 25%;
+right: 20.83%;
+top: 16.67%;
+bottom: 20.83%;
+
+background: #F5F5F5;
+
+
+/* DeviceDesktopXL */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 20.83%;
+right: 16.67%;
+top: 16.67%;
+bottom: 20.83%;
+
+background: #F5F5F5;
+
+
+/* DeviceDesktopXXL */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 8.33%;
+top: 16.67%;
+bottom: 20.83%;
+
+background: #F5F5F5;
+
+
+/* PlaylistPrev */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 10px;
+height: 12.13px;
+left: 7px;
+top: 5.93px;
+
+background: #F5F5F5;
+
+
+/* PlaylistNext */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 10px;
+height: 12.13px;
+left: 7px;
+top: 5.93px;
+
+background: #F5F5F5;
+
+
+/* PlaylistPlay */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 29.17%;
+right: 25%;
+top: 20.83%;
+bottom: 20.83%;
+
+background: #F5F5F5;
+
+
+/* Menu
+
+hamburger, lines, stack
+*/
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 25%;
+bottom: 29.17%;
+
+background: #F5F5F5;
+
+
+/* AddPanel */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 18.75%;
+right: 14.58%;
+top: 14.58%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* SymbolFill
+
+3D, cube, change
+*/
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 16.67%;
+right: 12.5%;
+top: 11.03%;
+bottom: 11.03%;
+
+background: #F5F5F5;
+
+
+/* icon */
+
+position: absolute;
+left: 25%;
+right: 47.92%;
+top: 18.75%;
+bottom: 33.33%;
+
+background: #F5F5F5;
+opacity: 0.4;
+border-radius: 0.5px;
+
+
+/* AssetManager
+
+photo, picture
+*/
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 20.83%;
+right: 16.67%;
+top: 20.83%;
+bottom: 16.67%;
+
+background: #F5F5F5;
+
+
+/* icon */
+
+position: absolute;
+left: 4.23%;
+right: 42.09%;
+top: 4.23%;
+bottom: 20.83%;
+
+background: #F5F5F5;
+opacity: 0.4;
+
+
+/* StyleManager
+
+rain, drops, water, drip
+*/
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 25%;
+right: 31.25%;
+top: 22.92%;
+bottom: 16.67%;
+
+background: #F5F5F5;
+opacity: 0.4;
+border-radius: 0.5px;
+
+
+/* icon */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 10.42%;
+bottom: 8.33%;
+
+background: #F5F5F5;
+
+
+/* Ecommerce
+
+shop, shopping, cart, buy, pay, checkout
+*/
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 13.3%;
+right: 13.3%;
+top: 13.88%;
+bottom: 16.67%;
+
+background: #F5F5F5;
+
+
+/* icon */
+
+position: absolute;
+left: 25%;
+right: 58.33%;
+top: 50%;
+bottom: 25%;
+
+background: #F5F5F5;
+opacity: 0.4;
+border-radius: 0.5px;
+
+
+/* Logic
+
+connect, app, flow, trigger, action, box, circle, x
+*/
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 16.67%;
+right: 11.03%;
+top: 12.5%;
+bottom: 15.19%;
+
+background: #F5F5F5;
+
+
+/* PagePanel
+
+paper
+*/
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 20.83%;
+right: 16.67%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* icon */
+
+position: absolute;
+left: 75%;
+right: 4.17%;
+top: 20.83%;
+bottom: 58.33%;
+
+background: #F5F5F5;
+opacity: 0.4;
+border-radius: 0.5px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Navigator
+
+hamburger, lines, stack
+*/
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 25%;
+bottom: 29.17%;
+
+background: #F5F5F5;
+
+
+/* ActivityLog
+
+move, ekg, heartbeat, line, graph
+*/
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 20%;
+bottom: 25.83%;
+
+background: #F5F5F5;
+
+
+/* CapabilityCMS */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 16.67%;
+bottom: 58.33%;
+
+background: #F5F5F5;
+opacity: 0.4;
+
+
+/* icon */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #F5F5F5;
+
+
+/* CapabilityUser */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 20.83%;
+right: 16.67%;
+top: 16.67%;
+bottom: 16.67%;
+
+background: #F5F5F5;
+
+
+/* icon */
+
+position: absolute;
+left: 30.04%;
+right: 47.92%;
+top: 25%;
+bottom: 25%;
+
+background: #F5F5F5;
+opacity: 0.4;
+border-radius: 0.5px;
+
+
+/* CapabilityForms */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 16.67%;
+right: 12.5%;
+top: 16.67%;
+bottom: 16.67%;
+
+background: #F5F5F5;
+
+
+/* icon */
+
+position: absolute;
+left: 50%;
+right: 25%;
+top: 37.5%;
+bottom: 37.5%;
+
+background: #F5F5F5;
+opacity: 0.4;
+border-radius: 0.5px;
+transform: rotate(90deg);
+
+
+/* CapabilityApps */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 3px;
+height: 3px;
+left: 6px;
+top: 6px;
+
+
+
+/* icon */
+
+position: absolute;
+width: 3px;
+height: 3px;
+left: 6px;
+top: 6px;
+
+background: #F5F5F5;
+opacity: 0.4;
+border-radius: 0.5px;
+
+
+/* icon */
+
+position: absolute;
+left: 16.67%;
+right: 20.83%;
+top: 16.67%;
+bottom: 20.83%;
+
+background: #F5F5F5;
+
+
+/* icon */
+
+position: absolute;
+left: 16.67%;
+right: 16.31%;
+top: 16.31%;
+bottom: 16.67%;
+
+background: #F5F5F5;
+
+
+/* CapabilityPageBuilder */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 37.5%;
+bottom: 37.5%;
+
+background: #F5F5F5;
+opacity: 0.4;
+border-radius: 0.5px;
+transform: rotate(90deg);
+
+
+/* icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 16.67%;
+bottom: 12.5%;
+
+background: #F5F5F5;
+
+
+/* CapabilityDesign */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 33.33%;
+right: 37.5%;
+top: 29.17%;
+bottom: 41.67%;
+
+background: #F5F5F5;
+opacity: 0.4;
+border-radius: 0.5px;
+
+
+/* icon */
+
+position: absolute;
+left: 25%;
+right: 23.77%;
+top: 15.44%;
+bottom: 15.44%;
+
+background: #F5F5F5;
+
+
+/* CapabilityAnalytics */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 29.17%;
+right: 37.5%;
+top: 25%;
+bottom: 25%;
+
+background: #F5F5F5;
+opacity: 0.4;
+
+
+/* icon */
+
+position: absolute;
+left: 16.67%;
+right: 12.5%;
+top: 16.67%;
+bottom: 16.67%;
+
+background: #F5F5F5;
+
+
+/* ToolbarSettings */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 14.78px;
+height: 16px;
+left: 4.61px;
+top: 4px;
+
+background: #F5F5F5;
+
+
+/* Audit */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 29.78%;
+right: 29.78%;
+top: 33.94%;
+bottom: 37.5%;
+
+background: #F5F5F5;
+
+
+/* icon */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.67%;
+bottom: 16.67%;
+
+background: #F5F5F5;
+opacity: 0.4;
+
+
+/* Help */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 16.67%;
+right: 12.5%;
+top: 12.5%;
+bottom: 16.67%;
+
+background: #F5F5F5;
+opacity: 0.4;
+
+
+/* icon */
+
+position: absolute;
+left: 41.67%;
+right: 37.5%;
+top: 29.17%;
+bottom: 32.29%;
+
+background: #F5F5F5;
+
+
+/* ToolbarSearch */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 20.83%;
+right: 19.36%;
+top: 20.83%;
+bottom: 19.36%;
+
+background: #F5F5F5;
+
+
+/* icon */
+
+position: absolute;
+left: 62.5%;
+right: 4.17%;
+top: 62.5%;
+bottom: 4.17%;
+
+background: #F5F5F5;
+opacity: 0.4;
+border-radius: 0.5px;
+transform: matrix(0, -1, -1, 0, 0, 0);
+
+
+/* VideoTutorialsPanel
+
+camera, educate, teach
+*/
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 14.58%;
+right: 14.58%;
+top: 25%;
+bottom: 22.92%;
+
+border: 1px solid #F5F5F5;
+
+
+/* icon */
+
+position: absolute;
+left: 62.5%;
+right: 14.58%;
+top: 39.58%;
+bottom: 22.92%;
+
+background: #D9D9D9;
+
+
+/* icon */
+
+position: absolute;
+left: 14.58%;
+right: 58.33%;
+top: 25%;
+bottom: 47.92%;
+
+background: #D9D9D9;
+
+
+/* icon */
+
+position: absolute;
+left: 41.67%;
+right: 31.25%;
+top: 25%;
+bottom: 47.92%;
+
+background: #D9D9D9;
+
+
+/* icon */
+
+position: absolute;
+left: 37.5%;
+right: 41.67%;
+top: 37.5%;
+bottom: 50%;
+
+background: #D9D9D9;
+
+
+/* icon */
+
+position: absolute;
+left: 18.75%;
+right: 35.42%;
+top: 39.58%;
+bottom: 22.92%;
+
+background: #D9D9D9;
+border-radius: 0.5px;
+
+
+/* icon */
+
+position: absolute;
+left: 25%;
+right: 55.03%;
+top: 50%;
+bottom: 30.03%;
+
+background: #F5F5F5;
+opacity: 0.4;
+
+
+/* Rectangle 40810 */
+
+position: absolute;
+left: 25%;
+right: 52.08%;
+top: 50%;
+bottom: 27.08%;
+
+/* Dark/Text/Active
+
+gray100
+*/
+background: #E0E0E0;
+opacity: 0.4;
+border-radius: 0.5px;
+
+
+/* ToolbarHelp */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 16.67%;
+right: 12.5%;
+top: 12.5%;
+bottom: 16.67%;
+
+background: #F5F5F5;
+opacity: 0.4;
+
+
+/* icon */
+
+position: absolute;
+left: 41.67%;
+right: 8.33%;
+top: 8.33%;
+bottom: 32.29%;
+
+background: #E0E0E0;
+
+
+/* Variable */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 9px;
+height: 6px;
+left: 2px;
+top: 8px;
+
+background: #E8E8E8;
+opacity: 0.4;
+
+
+/* Subtract */
+
+position: absolute;
+width: 9px;
+height: 6px;
+left: 2px;
+top: 8px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 42521 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 6px;
+height: 12px;
+left: 2px;
+top: 14px;
+
+border: 1px solid #D9D9D9;
+border-radius: 1px 1px 3px 3px;
+transform: rotate(-90deg);
+
+
+/* Rectangle 42522 */
+
+position: absolute;
+width: 6px;
+height: 7px;
+left: 8px;
+top: 7px;
+
+background: #D9D9D9;
+border-radius: 0px 0px 3px 3px;
+
+
+/* Intersect */
+
+position: absolute;
+width: 6.07px;
+height: 10.31px;
+left: 2.93px;
+top: 2.93px;
+
+background: #D9D9D9;
+
+
+/* icon */
+
+position: absolute;
+width: 11.07px;
+height: 12px;
+left: 2.93px;
+top: 2px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 42519 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 6px;
+height: 12px;
+left: 8px;
+top: 2px;
+
+border: 1px solid #D9D9D9;
+border-radius: 1px 1px 3px 3px;
+
+
+/* Rectangle 42520 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 6px;
+height: 12px;
+left: 8px;
+top: 2px;
+
+border: 1px solid #D9D9D9;
+border-radius: 1px 1px 3px 3px;
+
+
+/* Intersect */
+
+position: absolute;
+width: 6.07px;
+height: 10.31px;
+left: 2.93px;
+top: 2.93px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 42521 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 6px;
+height: 18px;
+left: 2.51px;
+top: 6.76px;
+
+border: 1px solid #D9D9D9;
+border-radius: 1px;
+transform: rotate(-45deg);
+
+
+/* Rectangle 42523 */
+
+position: absolute;
+width: 7px;
+height: 12px;
+left: 2px;
+top: 2px;
+
+background: #D9D9D9;
+
+
+/* Ellipse 6323 */
+
+position: absolute;
+width: 2px;
+height: 2px;
+left: 10px;
+top: 10px;
+
+background: #D9D9D9;
+
+
+/* VariableColor */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 7px;
+height: 9.5px;
+left: 4.5px;
+top: 3.5px;
+
+background: #F5F5F5;
+
+
+/* VariableTextSize */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+width: 12px;
+height: 8px;
+left: 2px;
+top: 4px;
+
+background: #F5F5F5;
+
+
+/* VariableSize */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.75%;
+right: 18.75%;
+top: 18.75%;
+bottom: 18.75%;
+
+background: #F5F5F5;
+
+
+/* FontFamily */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Subtract */
+
+position: absolute;
+width: 11.48px;
+height: 10.04px;
+left: 2.01px;
+top: 3px;
+
+background: #F5F5F5;
+
+
+/* Vector */
+
+position: absolute;
+width: 10.64px;
+height: 10.28px;
+left: 2.51px;
+top: 3.5px;
+
+border: 1px solid #D9D9D9;
+
+
+/* Rectangle 40747 */
+
+position: absolute;
+width: 3px;
+height: 2px;
+left: 9px;
+top: 12px;
+
+background: #D9D9D9;
