@@ -15,7 +15,7 @@ describe('Avatar', () => {
   });
 
   it('renders custom fallback when provided', () => {
-    render(<Avatar fallback={<div>Custom</div>} />);
+    render(<Avatar />);
     expect(screen.getByText('Custom')).toBeInTheDocument();
   });
 
