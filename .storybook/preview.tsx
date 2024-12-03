@@ -1,5 +1,5 @@
 import '../src/styles/variables.css';
-import { GlobalStyles } from '../src/styles/GlobalStyles';
+import { GlobalStyles } from '../src/styles/globalStyles';
 import React from 'react';
 import type { Preview } from '@storybook/react';
 import { colors } from '../src/components/foundations';
